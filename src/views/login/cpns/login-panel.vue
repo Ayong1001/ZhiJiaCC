@@ -1,6 +1,6 @@
 <template>
   <div class="login-panel">
-    <h1 class="title">商品后台管理系统</h1>
+    <h1 class="title">智佳家装管理系统</h1>
     <el-tabs type="border-card" v-model="currentTab" stretch>
       <el-tab-pane name="account">
         <template #label>
